@@ -30,3 +30,6 @@ DevOps & Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+
+##SQLD(25/06)
+##정보처리기사 필기
