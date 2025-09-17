@@ -31,7 +31,5 @@ DevOps & Tools
 </p>
 
 
-### SQLD(25/06)
+### SQL Developer(25.06)
 <br>
-
-### 정보처리기사 필기
